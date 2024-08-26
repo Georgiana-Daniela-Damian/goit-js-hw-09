@@ -7,8 +7,8 @@ body {
     Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #fafafa;
-  color: #212121;
+  background-color: rgb(42, 105, 94);
+  color: rgb(93, 181, 164);
   line-height: 1.5;
   margin: 20px;
   justify-content: flex-start;
@@ -38,5 +38,5 @@ img {
 
 .label {
   font-size: 12px;
-  color: #120909;
+  color: rgb(42, 105, 94);
 }
