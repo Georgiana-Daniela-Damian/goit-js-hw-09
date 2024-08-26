@@ -23,8 +23,10 @@ img {
 .paragraph {
   margin-right: 30px;
 }
+
 .timer {
   display: flex;
+  background-color: rgb(42, 105, 94);
 }
 
 .field {
