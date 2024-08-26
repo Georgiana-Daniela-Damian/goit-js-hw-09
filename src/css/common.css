@@ -46,5 +46,13 @@ img {
 }
 
 .color {
-  color: red;
+  color: rgb(93, 181, 164);
+}
+
+.countdown {
+  color: rgb(93, 181, 164);
+}
+
+.promise {
+  color: rgb(93, 181, 164);
 }
