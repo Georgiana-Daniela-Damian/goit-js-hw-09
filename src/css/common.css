@@ -18,6 +18,7 @@ body {
 img {
   display: block;
   max-width: 100%;
+  color: rgb(93, 181, 164);
 }
 
 .paragraph {
@@ -38,6 +39,7 @@ img {
 .value {
   font-size: 24px;
   font-weight: bold;
+  color: rgb(93, 181, 164);
 }
 
 .label {
